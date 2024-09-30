@@ -1,6 +1,6 @@
 criaCartao(
     'Skate',
-    'O que é Python?',
+    'Como foi criado o skate?',
     'Grupos de surfistas instalaram rodas e eixos nas pranchas para simular o surfe nas calçadas'
 )
 
